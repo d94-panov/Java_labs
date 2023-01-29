@@ -1,5 +1,8 @@
 package UrFU.first_course.lab8;
 
+//Для вышеописанного задания сделать вывод пара- метра
+//перед вхождением в рекурсивный вызов и после него.
+
 public class Example1_Rec3 {
     private static int step = 0;
 

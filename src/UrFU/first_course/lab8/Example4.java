@@ -25,7 +25,7 @@ public class Example4 {
     }
 }
 
-class Node { // КЛАСС – СТРУКТУРА ЭЛЕМЕНТА СПИСКА
+class Node { // структура элемента списка
     public int value; // значение
     public Node next;
 

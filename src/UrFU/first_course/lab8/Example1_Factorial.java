@@ -1,5 +1,8 @@
 package UrFU.first_course.lab8;
 
+//Вычислить факториал числа n с использованием
+//рекурсии.
+
 public class Example1_Factorial {
     public static int fact(int n) {
         int result;
